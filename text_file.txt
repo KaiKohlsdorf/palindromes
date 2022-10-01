@@ -1,0 +1,68 @@
+Palindrome Definition
+A palindrome (PAL-en-drohm) is a word, sentence, or number that can be read the same way backwards and forwards. For example, the word did, the number 1991, and the sentence “Able was I ere I saw Elba” are all palindromes.
+
+The word palindrome first appeared in English in the 1620s, when poet and playwright Ben Johnson coined the phrase. It’s borrowed from the Greek palindromos, which means “a recurrence.” The term comes from the combined Greek palin, meaning “again, back,” and dromos, meaning “a running.” Together, the words’ meanings create “a running back.”
+
+Types of Palindrome
+Some may be surprised to find there are several types of palindromes.
+
+The most common palindromes are word palindromes. These are words that have the same meaning, whether they’re read backwards or forwards. Racecar, civic, kayak, redivider, and refer are examples of word palindromes.
+Semordnilaps, on the other hand, are palindromes that, when read backwards, become new words. For example, desserts and stressed, god and dog, and stop and pots are semordnilaps. Fittingly, the word semordnilap is palindromes spelled backwards.
+Numerical palindromes are numbers that can be read the same in reverse order, such as 1881, as well as those that can be read both upside down and backwards, like 1961. Numerical palindromes also include date palindromes, such as 02/02/2020 or 11/11/11.
+Sentence palindromes form a full sentence, such as “Able was I ere I saw Elba,” “A man, a plan, a canal—Panama!” and “Do geese see God?”
+Name palindromes are quite common, such as the first names Otto, Hannah, Anna, Eve, and Bob. There are also full name palindromes, such as sportswriter Mark Kram, flamenco dancer Sara Baras, and Stanley Yelnats, the fictional main character in Louis Sachar’s 1998 young adult novel Holes.
+Classical music palindromes are also common. Many composers, such as Joseph Haydn (“Symphony No. 47 in G”) and Igor Stravinsky (“The Owl and the Pussycat”), play palindromic games within their compositions, having different movements in their work run backwards to reflect previous movements.
+Why Writers Use Palindromes
+Writers use palindromes primarily because they’re entertaining—both for readers and for the writers themselves. Writers enjoy testing their skills by using the constraint of the palindrome form, while readers take pleasure in the visual fun of looking at a word, a number, a phrase, or a sentence that can be read the exact same way both forward and backward.
+
+Examples of Palindromes in Literature
+1. Robert Lee Brewer, “Witches Burn”
+
+Writer and editor Robert Lee Brewer experimented with the palindrome for his Poetic Asides column in Writer’s Digest. “Witches Burn” reads, in its entirety:
+
+Gypsies tell girls,
+‘Witches burn candles,’
+and laugh. Cats
+jump fences.
+Shadows cast spells in
+Darkness
+in spells cast shadows.
+‘Fences jump, cats laugh,
+and candles burn witches,’
+girls tell gypsies.
+Brewer’s poem uses the same words in the second half as in the first, but he reverses their order. The only word not reversed is the middle word, darkness, which he uses as a bridge from the poem’s first half to its reversed second half.
+
+2. W.H. Auden
+
+W. H. Auden penned this unflattering palindrome about the poet T. S. Eliot:
+
+T. Eliot, top bard, notes putrid tang emanating, is sad, I’d assign it a name: gnat dirt upset on pot toilet.
+While this palindrome is sometimes ascribed to Scottish poet Alastair Reid, biographer Charles Osborne credits Auden in his book W.H. Auden: The Life of a Poet.
+
+3. Dylan Thomas, Under Milk Wood
+
+The fictional Welsh seaside town in Thomas’s play is called “Llareggub.” This name includes the characteristic double L often found in Welsh, and when read backwards, it reveals a rude phrase in United Kingdom slang.
+
+4. O. Abootty, The Funny Side of English
+
+In an overview of the humorous elements of the English language, Abootty claims the first palindromic sentence in English was:
+
+Lewd did I live & evil I did dwel.
+This sentence dates to 1614.
+
+5. James Joyce, Ulysses
+
+During Molly Bloom’s stream-of-consciousness soliloquy, which concludes Joyce’s great modernist novel, she remembers how she was once was waiting:
+
+I was just beginning to yawn with nerves thinking he was trying to make a fool of me
+when I knew his tattarrattat at the door.
+The word tattarrattat was coined by Joyce to mean “a knock.” In addition to being a palindrome, the word is also onomatopoeic.
+
+Further Resources on Palindromes
+Paste magazine covered comedian Demetri Martin’s 224-word palindrome poem in a short article.
+
+Professor Tatiana Bonch-Osmolovskaya wrote a wonderful exploration of the use of palindromes in traditional European and contemporary Russian poetry.
+
+The Utne Reader did a brief write up of Barry Duncan, the world’s only “master palindromist.”
+
+Singer Weird Al Yankovic’s song “Bob” is a parody of fellow singer Bob Dylan, and it uses lyrics that are all palindromes.
